@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1442511376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12af5dca516f94253987e0e3d29d9f14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ebeb45afd4ea7b02f9cb002030c49cc5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Models/Wooden wardrobe.blend
+- Assets/Resources/WardrobeRender.png
+Dependencies: []

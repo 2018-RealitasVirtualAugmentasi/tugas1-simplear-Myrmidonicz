@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 1144328897
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: loloolol
+      Dependencies: {}
+    Info_1:
+      Name: meja_tamu
+      Dependencies: {}
+    Info_2:
+      Name: kursi_kayu
+      Dependencies: {}
